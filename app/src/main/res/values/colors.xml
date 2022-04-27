@@ -9,4 +9,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="black1">#B3000000</color>
     <color name="blue">#FF00123E</color>
+    <color name="principaltxt">#1C1C1C</color>
+    <color name="principalbg">#E9E9E9</color>
 </resources>

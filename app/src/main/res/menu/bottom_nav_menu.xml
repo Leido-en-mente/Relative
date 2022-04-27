@@ -1,19 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
-        android:id="@+id/navigation_home"
-        android:icon="@drawable/ic_home_black_24dp"
-        android:title="@string/title_home" />
+        android:id="@+id/navigation_perfil"
+        android:title="@string/perfil_de_usuario"
+        />
+    <item
+        android:id="@+id/navigation_salir"
+        android:title="@string/salir"
+        />
+    <item
+        android:id="@+id/navigation_cerrar"
+        android:title="@string/cerrar_sesi_n"
+        />
 
     <item
-        android:id="@+id/navigation_dashboard"
-        android:icon="@drawable/ic_dashboard_black_24dp"
-        android:title="@string/title_dashboard" />
+        android:id="@+id/navigation_idioma"
+        android:icon="@drawable/ic_baseline_translate_24"
+        app:showAsAction="always"
+        android:title="@string/idioma">
 
-    <item
-        android:id="@+id/navigation_notifications"
-        android:icon="@drawable/ic_notifications_black_24dp"
-        android:title="@string/title_notifications" />
+        <menu>
+            <item
+                android:id="@+id/navigation_esp"
+                android:title="Español" />
+            <item
+                android:id="@+id/navigation_eng"
+                android:title="English" />
+            <item
+                android:id="@+id/navigation_deu"
+                android:title="Deutsch" />
+            <item
+                android:id="@+id/navigation_rus"
+                android:title="Pусский" />
+        </menu>
+ </item>
+
+
+
 
 </menu>

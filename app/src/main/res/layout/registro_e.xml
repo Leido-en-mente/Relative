@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -127,7 +128,7 @@
         android:layout_height="110dp"
         android:layout_alignParentBottom="true"
         android:fontFamily="casual"
-        android:text="COMPLETAR REGISTRO"
+        android:text="@string/completar_registro"
         android:textColor="@color/white"
         android:textSize="16sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -136,5 +137,20 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/regcontra2"
         app:layout_constraintVertical_bias="1.0" />
+
+    <Switch
+        android:id="@+id/admins"
+        android:layout_width="162dp"
+        android:layout_height="40dp"
+        android:fontFamily="casual"
+        android:text="@string/administrador"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toTopOf="@+id/registro1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.675"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/regcontra2"
+        app:layout_constraintVertical_bias="0.349"
+        tools:ignore="UseSwitchCompatOrMaterialXml" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

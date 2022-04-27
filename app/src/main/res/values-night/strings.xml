@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="salir">Salir</string>
+    <string name="Usuarioinfa">Información de Usuario</string>
+    <string name="administrador">Administrador</string>
+    <string name="completar_registro">COMPLETAR REGISTRO</string>
+    <string name="estatus">Estatus:</string>
+    <string name="buscar">Buscar</string>
+</resources>

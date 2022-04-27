@@ -1,20 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">RelativeEX</string>
     <string name="title_activity_inicio">Inicio</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
-    <string name="cerrar_sesi_n">Cerrar Sesión</string>
-    <string name="idioma">Idioma</string>
-    <string name="mensaje">Mensaje</string>
-    <string name="texto_de_prueba_01">Texto de prueba 01</string>
-    <string name="texto_de_prueba_02">Texto de prueba 02</string>
-    <string name="contactos">Contactos</string>
-    <string name="videollamada">Videollamada</string>
-    <string name="inicio">Inicio</string>
-    <string name="salir">Salir</string>
+    <string name="cerrar_sesi_n">Ausloggen</string>
+    <string name="idioma">Sprache</string>
+    <string name="mensaje">Beiträge</string>
+    <string name="texto_de_prueba_01">Testtext 01</string>
+    <string name="texto_de_prueba_02">Testtext 02</string>
+    <string name="contactos">Kontakte</string>
+    <string name="videollamada">Videoanruf</string>
+    <string name="inicio">Anfang</string>
+    <string name="salir">Verlassen</string>
     <string name="Usuarioinfa">Información de Usuario</string>
-    <string name="perfil_de_usuario">Perfil de usuario</string>
     <string name="administrador">Administrador</string>
     <string name="completar_registro">COMPLETAR REGISTRO</string>
     <string name="estatus">Estatus:</string>

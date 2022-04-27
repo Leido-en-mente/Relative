@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RelativeEX</string>
+    <string name="title_activity_inicio">Start</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="cerrar_sesi_n">Log Out</string>
+    <string name="idioma">Language</string>
+    <string name="mensaje">Messages</string>
+    <string name="texto_de_prueba_01">Test Text 01</string>
+    <string name="texto_de_prueba_02">Test Text 02</string>
+    <string name="contactos">Contacts</string>
+    <string name="videollamada">Video call</string>
+    <string name="inicio">Main</string>
+    <string name="salir">Exit</string>
+    <string name="Usuarioinfa">Información de Usuario</string>
+    <string name="administrador">Administrador</string>
+    <string name="completar_registro">COMPLETAR REGISTRO</string>
+    <string name="estatus">Estatus:</string>
+    <string name="buscar">Buscar</string>
+</resources>
